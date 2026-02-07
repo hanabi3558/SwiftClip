@@ -19,11 +19,10 @@ Whether you are a researcher identifying complex components, a designer seeking 
 
 ## Usage
 
-1. Run `SwiftClip.exe` (or `python main.py`)
-2. The app appears in the system tray
-3. Press `Ctrl+Shift+T` to select a screen region
-4. Drag to select the area you want to translate
-5. Google Lens opens — press `Ctrl+V` to paste the image
+1. **Launch** — Run `SwiftClip.exe` (or `python main.py`). The app will appear in the system tray.
+2. **Activate** — Press `Ctrl + Shift + T` to select a screen region.
+3. **Capture** — Click and drag to select the area you want to analyze or translate.
+4. **Search** — The search interface will open automatically — simply press `Ctrl + V` to paste the image and get instant results.
 
 ## Installation
 
@@ -51,3 +50,7 @@ The executable will be in the `dist/` folder.
 ## License
 
 MIT
+
+## Disclaimer
+
+SwiftClip is an independent productivity tool and is not affiliated with, authorized, or endorsed by Google LLC.
