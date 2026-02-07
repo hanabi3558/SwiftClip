@@ -15,7 +15,9 @@ rh/
 rh.zip
 
 # Screenshots
-*.png
+Screenshot*.png
+app_clean.png
+app2.png
 
 # IDE
 .vscode/

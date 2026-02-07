@@ -1,13 +1,21 @@
-# SwiftClip
+<p align="center">
+  <img src="app.png" alt="SwiftClip Icon" width="150">
+</p>
 
-A lightweight Windows tool that lets you select a screen region, capture it, and instantly open it in Google Lens for text recognition and translation.
+<h1 align="center">SwiftClip</h1>
 
-## Features
+<p align="center"><strong>Redefining On-Screen Intelligence</strong></p>
 
-- System tray application with hotkey support
-- Screen region selection with overlay
-- Automatically copies screenshot to clipboard
-- Opens Google Lens for OCR and translation
+SwiftClip is a cutting-edge productivity tool designed for users who value speed and precision. Taking inspiration from the agility of its namesake, the app allows you to capture any segment of your Windows screen and instantly initiate a deep search using advanced image recognition technology.
+
+## Key Features
+
+- **Intuitive Selection** — Effortlessly highlight images, text, or complex diagrams with a simple click-and-drag motion.
+- **Seamless Integration** — Bridge the gap between your local desktop environment and the web's most powerful search engines.
+- **Boosted Productivity** — Eliminate the tedious process of saving, uploading, and searching manually. Get the information you need in a fraction of the time.
+- **Minimalist Interface** — A lightweight and elegant design that stays out of your way until the moment you need it.
+
+Whether you are a researcher identifying complex components, a designer seeking visual references, or a student translating academic texts, SwiftClip transforms your screen into an interactive gateway of information.
 
 ## Usage
 
