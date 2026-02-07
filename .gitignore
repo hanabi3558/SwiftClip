@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Temp files
+temp_icon.ico
+rcedit.exe
+rh/
+rh.zip
+
+# Screenshots
+*.png
+
+# IDE
+.vscode/
+.idea/
